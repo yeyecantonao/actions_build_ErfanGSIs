@@ -16,7 +16,7 @@ on:
 env:
   ROM_URL: https://bigota.d.miui.com/V12.0.1.0.PDECNXM/miui_MIMIX2_V12.0.1.0.PDECNXM_ba60e4bd60_9.0.zip
   ROM_NAME: MIUI
-  BUILD_TYPE: ab
+  BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
 
 jobs:
